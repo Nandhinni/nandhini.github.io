@@ -1,8 +1,6 @@
-.list1
-{
-	padding-left: 15px;
-}
-.header
-{
-	padding-left: 60px;
+
+table,tr,td
+{   
+	border: 1px solid black;
+	text-align: center;
 }
