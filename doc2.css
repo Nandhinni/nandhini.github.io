@@ -1,0 +1,50 @@
+.container
+{
+	width:70%;
+	margin:auto;
+	background-color: #8c8c8c;
+	overflow:hidden;
+	height: 700px;
+}
+#heading
+{
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+.part1
+{
+  background-color:#33ccff;
+  width:70%;
+  float:left;
+  height:80%;
+}
+.part2
+{
+  background-color:#b3ecff;
+  width:30%;
+  float:left;
+  height:80%;
+}
+
+table,tr,td
+{   
+	border: 1px solid black;
+	text-align: center;
+	border-collapse: collapse;
+}
+body
+{
+	background-image: url(pic1.jpg);
+	height:100%;
+
+}
+a
+{
+	text-decoration: none;
+	color: black;
+}
+ul a:hover
+{
+	color:#ff66b3;
+}
